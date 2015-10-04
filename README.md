@@ -16,3 +16,5 @@ Tutustutaan ohjelmointiympäristöihin, kuten [Scratch](https://scratch.mit.edu/
 Eri opetusvälineiden sijoittuminen tunkkaus- ja ajatteluakselille.
 
 ![Opetusvälineet](img/opetusvälineet.png)
+
+Paljon lisää oppimismateriaaleja löytyy [Koodikoulusta](http://koodikoulu.fi) ja [Koodiaapisesta](http://koodiaapinen.fi). Myös [Koodikirjaan](http://koodikirja.fi) kannattaa tutustua.
