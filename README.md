@@ -11,6 +11,8 @@ Ajattelumallien lisäksi esitellään keskeiset ohjelmointityökalut.
 
 ![Algoritminen ajattelu](img/algoritminen-ajattelu.png)
 
+Tutustutaan ohjelmointiympäristöihin, kuten [Scratch](https://scratch.mit.edu/) ja [Koodaustunti](http://learn.code.org/hoc/1).
+
 Eri opetusvälineiden sijoittuminen tunkkaus- ja ajatteluakselille.
 
 ![Opetusvälineet](img/opetusvälineet.png)
