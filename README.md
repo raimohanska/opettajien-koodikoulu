@@ -11,6 +11,10 @@ Ajattelumallien lisäksi esitellään keskeiset ohjelmointityökalut.
 
 ![Algoritminen ajattelu](img/algoritminen-ajattelu.png)
 
+Todetaan, että käytännössä ohjelmointi on puoliksi algoritmista ajattelua ja puoliksi "tunkkausta", eli säätämistä välineiden kanssa. Opettelussa kannattaa valita välineet siten, että tunkkaukseen menevä aika ei tapa motivaatiota. Toisaalta valintaan vaikuttaa myös se, kuinka paljon välineessä on opetuksellista syvyyttä ja miten hyvin se tukee luovuutta.
+
+![Ajattelu ja tunkkaus](img/ajattelu-tunkkaus.png)
+
 Tutustutaan ohjelmointiympäristöihin, kuten [Scratch](https://scratch.mit.edu/) ja [Koodaustunti](http://learn.code.org/hoc/1).
 
 Eri opetusvälineiden sijoittuminen tunkkaus- ja ajatteluakselille.
