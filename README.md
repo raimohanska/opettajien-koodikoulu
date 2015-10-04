@@ -1,5 +1,7 @@
 # Opettajien koodikoulu
 
+[github.com/raimohanska/opettajien-koodikoulu](https://github.com/raimohanska/opettajien-koodikoulu)
+
 Opettajien koodikoulussa tutustutaan ohjelmoinnin keskeisiin taitoihin ja välineisiin esimerkkien kautta. 
 
 Aluksi harjoitellaan [Turtle Roy](https://turtle-roy.herokuapp.com/) -ympäristössä perusasioita. Turtle Royhin löytyy suomenkielinen [pikaohje](http://www.koodikirja.fi/turtle-roy/) Koodikirjan sivuilta.
