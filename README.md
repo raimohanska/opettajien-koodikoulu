@@ -2,7 +2,10 @@
 
 Opettajien koodikoulussa tutustutaan ohjelmoinnin keskeisiin taitoihin ja välineisiin esimerkkien kautta. 
 
-Aluksi harjoitellaan [Turtle Roy](https://turtle-roy.herokuapp.com/) -ympäristössä perusasioita. Sen jälkeen
+Aluksi harjoitellaan [Turtle Roy](https://turtle-roy.herokuapp.com/) -ympäristössä perusasioita. Turtle Royhin löytyy suomenkielinen [pikaohje](http://www.koodikirja.fi/turtle-roy/) Koodikirjan sivuilta.
+
+
+Sen jälkeen
 näytetään, kuinka koodaaja ajattelee, kun hän ratkaisee ongelmia. Esimerkkiongelmana on neliön piirtäminen, josta jatketaan ruudukon piirtämiseen. Lopuksi yleistetään ruudukon piirtämisen ratkaisu soveltumaan minkä tahansa kokoisille ruudukoille. Esimerkissä käytetyt algoritmisen ajattelun taidot kuvataan kaaviolla.
 
 ![Taidot esimerkin kautta](img/taidot-esimerkki.png)
