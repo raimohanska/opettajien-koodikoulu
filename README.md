@@ -26,10 +26,12 @@ Eri opetusvälineiden sijoittuminen tunkkaus- ja ajatteluakselille.
 
 Paljon lisää oppimismateriaaleja löytyy [Koodikoulusta](http://koodikoulu.fi) ja [Koodiaapisesta](http://koodiaapinen.fi). Myös [Koodikirjaan](http://koodikirja.fi) kannattaa tutustua.
 
-### Tulostettavat linkit
+### Linkit
 
 - Tämä dokumentti: https://github.com/raimohanska/opettajien-koodikoulu
 - Turtle Roy -sivusto: http://turtle-roy.com
-- Turtle Roy -referenssi: http://www.koodikirja.fi/turtle-roy/
+- Turtle Royn suomenkieliset ohjeet: http://www.koodikirja.fi/turtle-roy/
+- Koodikirja: http://koodikirja.fi
+- Koodiaapinen: http://koodiaapinen.fi
 - Scratch: http://scratch.mit.edu
 - Koodaustunti: http://learn.code.org/hoc/1
