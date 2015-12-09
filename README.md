@@ -10,7 +10,7 @@ näytetään, kuinka koodaaja ajattelee, kun hän ratkaisee ongelmia. Esimerkkio
 
 ![Taidot esimerkin kautta](img/taidot-esimerkki.png)
 
-Ajattelumallien lisäksi esitellään keskeiset ohjelmointityökalut.
+Ajattelumallien lisäksi esitellään keskeiset ohjelmoinnin rakenteet.
 
 ![Algoritminen ajattelu](img/algoritminen-ajattelu.png)
 
