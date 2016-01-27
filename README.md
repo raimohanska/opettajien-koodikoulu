@@ -30,7 +30,7 @@ Paljon lisää oppimismateriaaleja löytyy [Koodikoulusta](http://koodikoulu.fi)
 
 ### Linkit
 
-- Tämä dokumentti: https://github.com/raimohanska/opettajien-koodikoulu
+- Tämä dokumentti: http://tinyurl.com/opettajien-koodikoulu
 - Turtle Roy -sivusto: http://turtle-roy.com
 - Turtle Royn suomenkieliset ohjeet: http://www.koodikirja.fi/turtle-roy/
 - Koodikirja: http://koodikirja.fi
