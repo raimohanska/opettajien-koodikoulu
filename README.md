@@ -10,6 +10,8 @@ näytetään, kuinka koodaaja ajattelee, kun hän ratkaisee ongelmia. Esimerkkio
 
 ![Taidot esimerkin kautta](img/taidot-esimerkki.png)
 
+Ruudukon piirtämiseen tehty Turtle Roy -ohjelma löytyy [täältä](https://turtle-roy.herokuapp.com/?turtle=t4U4vIsp27).
+
 Ajattelumallien lisäksi esitellään keskeiset ohjelmoinnin rakenteet.
 
 ![Algoritminen ajattelu](img/algoritminen-ajattelu.png)
