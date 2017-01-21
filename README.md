@@ -32,6 +32,7 @@ Paljon lisää oppimismateriaaleja löytyy [Koodikoulusta](http://koodikoulu.fi)
 
 - [Laatoitus Turtle Roylla](https://turtle-roy.herokuapp.com/?turtle=A3dlRhBCOl)
 - [Laatoitus Scratchilla](https://scratch.mit.edu/projects/140845793/#player)
+- [Run-length -koodaus Turtle Roylla](https://turtle-roy.herokuapp.com/?turtle=MgeOnmhMTT#)
 
 ### Linkit
 
